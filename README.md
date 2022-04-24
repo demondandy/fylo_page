@@ -2,11 +2,6 @@ Project By Side Hustle
 
 Completed By: FRONTEND DEVELOPMENT (HTML + CSS + JS)_GROUP_64
 
-Members:
-
-Okoro Dandy Junior 
-Obasohan Alex Osaromaa
-
 A. TAKE NOTE OF THE STYLE GUIDE
 
 Layout
